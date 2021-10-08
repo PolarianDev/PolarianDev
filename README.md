@@ -3,7 +3,7 @@ I am Polarian, you may wonder why a programmer has no repositories on github, an
 
 Check me out on [gitlab](https://gitlab.com/PolarianDev) (the superior platform) <br>
 You can also add me on discord: `Polarian#7560` (although discord is also not one of the greatest platforms) <br>
-My IRC: <br>
+My IRC:
 - Hostname: `chat.polarian.dev` <br>
 - Port: `6667` (unencrypted) or `6697` (tls encryption) <br>
 - My username: PolarianDev <br>
