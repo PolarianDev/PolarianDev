@@ -8,6 +8,6 @@ My IRC:
 - Hostname: `chat.polarian.dev` <br>
 - Port: `6667` (unencrypted) or `6697` (tls encryption) <br>
 - My username: PolarianDev <br>
-- What channel? --> Join #main (Not very creative naming I know), warning this is bridged with discord and therefore the messages are persistant
+- What channel? --> Join #main (Not very creative naming I know), warning this is bridged with discord and therefore the messages are persistant (you can check out the bridge I wrote [here](https://gitlab.com/PolarianDev/bridge.net))
 
 Have a nice day and join the IRC revolution :P
