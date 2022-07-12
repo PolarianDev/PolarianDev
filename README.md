@@ -3,4 +3,5 @@ I am Polarian, you may wonder why a programmer has no repositories on github, an
 
 Check me out on [gitlab](https://gitlab.com/PolarianDev) (the superior platform) <br>
 You can also add me on discord: `Polarian#7560` (although discord is also not one of the greatest platforms) <br>
-You can contact me on XMPP: `polarian@xmpp.polarian.dev`
+You can contact me on XMPP: `polarian@polarian.dev` <br>
+You can email me [here](mailto:polarian@polarian.dev)
