@@ -11,5 +11,3 @@ I am also active within Arch Linux, see:
 - [My ArchWiki account](https://wiki.archlinux.org/title/User:PolarianDev)
 - [My ArchWiki contributions](https://wiki.archlinux.org/title/Special:Contributions/PolarianDev)
 - [My AUR packages](https://aur.archlinux.org/packages?O=0&SeB=M&K=PolarianDev)
-
-Dislike github? Why not check out my [public onedev instance](https://onedev.polarian.dev)!
